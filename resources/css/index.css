@@ -152,8 +152,8 @@ border-bottom: 2px solid #fbc97f;
             }
 .text-shadow {
         text-shadow: 4px 8px 4px #000000, 0px 0px 25px #000000, 0px 0px 10px #000000;
-    background: rgba(000, 25, 25, .4);
-    border-radius: 60%;
+    background: rgba(000, 25, 25, .7);
+    border-radius: 40%;
     
 }
 
