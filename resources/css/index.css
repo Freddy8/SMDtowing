@@ -142,7 +142,9 @@ border-bottom: 2px solid #fbc97f;
 
 
 .dispatch {font-size: 3em;}
-.number {font-size: 2em;}
+.number {
+            font-size: 2em;
+            color:#FFFFFF;}
 .location {font-size:2em;
             width:10em;
     display: inline-block;
@@ -157,6 +159,9 @@ border-bottom: 2px solid #fbc97f;
 
 .small {font-size: 15px;
     font-family: 'Quicksand', Helvetica, Arial, sans-serif;
+    color: #FFFFFF;
+    
+    
         }
 
 .SMD {font-size:3.2em;
