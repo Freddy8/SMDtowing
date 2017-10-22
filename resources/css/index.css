@@ -174,3 +174,24 @@ font-family: 'Quicksand', Helvetica, Arial, sans-serif;
     
 }
 
+.formspree {background: White;
+            margin: none;
+            padding: none;
+            height: auto;
+            width: auto;
+            border: 2px solid #fbc97f;
+
+}
+.formspree input, textarea, button {
+    color:black;
+    margin: 1em;
+    padding: 5px;
+    display: flex;
+    flex-direction: column;
+    border: 2px solid #4d4d4d;
+    color: black;}
+
+a[href^="tel"]{
+    color:inherit;
+    text-decoration:none;
+}
