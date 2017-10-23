@@ -184,6 +184,7 @@ font-family: 'Quicksand', Helvetica, Arial, sans-serif;
 }
 .formspree input, textarea, button {
     color:black;
+    font-family: 'Quicksand', Helvetica, Arial, sans-serif;
     margin: 1em;
     padding: 5px;
     display: flex;
